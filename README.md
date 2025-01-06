@@ -18,8 +18,40 @@ I enjoy working with data to uncover patterns, trends, and insights that help bu
 - **Python**: Experience in using Python for data manipulation (with Pandas), data visualization (with Matplotlib and Seaborn), and performing basic statistical analysis.
 - **Google Data Studio**: Skilled in creating interactive and user-friendly reports and dashboards that present data in a visually compelling way, enabling easy collaboration and sharing.
 
-## Project 1
-[USDA Commodity Price Analysis](https://bbery0z.github.io/Project1-USDA-Commodity-Price-Analysis/)
+## Project 1 - Biodata Cleaning
+This was a practice project I worked on during my internship at **Tech Studio Academy**.
+
+#### Project Details:
+- **Data Source**:
+  Biodata from an establishment in Nigeria. The dataset came in a single column in excel file format.
+
+#### Steps Taken(Using Python):  
+1. The dataset was read into a pandas DataFrame using "pd.read_excel()"
+2. Column split using delimiters with "str.split()"
+3. Standardized Fullnames with "str.title()" and Reset Index with “data.reset_index(drop=True)”
+The report for the project can be found here: 
+  
+## Project 2 - USDA Commodity Price Analysis
+This was also practice project I worked on during my internship at **Tech Studio Academy**.
+
+#### Project Details:
+- **Data Source**:  
+  USDA pricing data from the 3rd and 4th quarters of 2022 and 2023.
+
+#### Steps Taken(Using Excel tool):
+1. **Data Concatenation**:  
+   Combined data from 2022 and 2023 into a single dataset for analysis.
+   
+2. **Standardized Missing Values**:  
+   Replaced inconsistent indicators for missing data with a standardized placeholder.
+   
+3. **Data Typing**:  
+   Ensured numerical columns (e.g., High Price, Low Price, Average Price) were correctly typed for computations.
+   
+4. **Duplicate Removal**:  
+   Removed duplicate rows to maintain dataset uniqueness.
+
+The project report can be found here: [USDA Commodity Price Analysis](https://bbery0z.github.io/Project2-USDA-Commodity-Price-Analysis/)
 
 ## Let's Connect
 
