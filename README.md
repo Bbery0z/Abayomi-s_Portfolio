@@ -52,7 +52,7 @@ This was also practice project I worked on during my internship at **Tech Studio
 4. **Duplicate Removal**:  
    Removed duplicate rows to maintain dataset uniqueness.
 
-The project report can be found here: [USDA Commodity Price Analysis](https://bbery0z.github.io/Project2-USDA-Commodity-Price-Analysis/)
+The project report can be found here: [USDA Commodity Price Analysis](https://bbery0z.github.io/USDA-Commodity-Price-Analysis/)
 
 ## Let's Connect
 
