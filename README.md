@@ -19,7 +19,7 @@ I enjoy working with data to uncover patterns, trends, and insights that help bu
 - **Google Data Studio**: Skilled in creating interactive and user-friendly reports and dashboards that present data in a visually compelling way, enabling easy collaboration and sharing.
 
 ## Recent Projects:
-### Biodata Cleaning
+### -Biodata Cleaning
 This was a practice project I worked on during my internship at **Tech Studio Academy**.
 
 #### Project Details:
@@ -32,7 +32,7 @@ This was a practice project I worked on during my internship at **Tech Studio Ac
 3. Standardized Fullnames with "str.title()" and Reset Index with “data.reset_index(drop=True)”
 The report for the project can be found here: 
   
-### USDA Commodity Price Analysis
+### -USDA Commodity Price Analysis
 This was also practice project I worked on during my internship at **Tech Studio Academy**.
 
 #### Project Details:
