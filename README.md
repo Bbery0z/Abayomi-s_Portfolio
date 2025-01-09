@@ -24,7 +24,7 @@ This was a practice project I worked on during my internship at **Tech Studio Ac
 
 #### Project Details:
 - **Data Source**:
-  Biodata from an establishment in Nigeria. The dataset came in a single column in excel file format.
+  Biodata from an establishment in Nigeria. The dataset came in a single column in excel file format.[Link Here](https://docs.google.com/spreadsheets/d/1dwlJueP_Vg66NGirgtjO3bkHkUAWyYWD/edit?usp=drive_link&ouid=100998320109364332065&rtpof=true&sd=true/)
 
 #### Steps Taken(Using Python):  
 1. The dataset was read into a pandas DataFrame using "pd.read_excel()"
@@ -37,7 +37,7 @@ This was also practice project I worked on during my internship at **Tech Studio
 
 #### Project Details:
 - **Data Source**:  
-  USDA pricing data from the 3rd and 4th quarters of 2022 and 2023.
+  USDA pricing data from the 3rd and 4th quarters of 2022 and 2023. [Source file](https://docs.google.com/spreadsheets/d/1uhUG5Z1v-GT9kbt7vX-mH3DEYtaK9fBe/edit?usp=drive_link&ouid=100998320109364332065&rtpof=true&sd=true/)
 
 #### Steps Taken(Using Excel and PowerBI tools):
 1. **Data Concatenation**:  
