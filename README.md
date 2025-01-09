@@ -18,7 +18,10 @@ I enjoy working with data to uncover patterns, trends, and insights that help bu
 - **Python**: Experience in using Python for data manipulation (with Pandas), data visualization (with Matplotlib and Seaborn), and performing basic statistical analysis.
 - **Google Data Studio**: Skilled in creating interactive and user-friendly reports and dashboards that present data in a visually compelling way, enabling easy collaboration and sharing.
 
-## Recent Projects:
+## Let's Connect
+
+I’m excited to continue learning and growing as a data analyst. Feel free to check out my most recent projects, and don’t hesitate to reach out if you have any questions or opportunities for collaboration.
+
 ### -Biodata Cleaning
 This was a practice project I worked on during my internship at **Tech Studio Academy**.
 
@@ -54,7 +57,4 @@ This was also practice project I worked on during my internship at **Tech Studio
 
 The project report can be found here: [USDA Commodity Price Analysis](https://bbery0z.github.io/USDA-Commodity-Price-Analysis/)
 
-## Let's Connect
 
-
-I’m excited to continue learning and growing as a data analyst. Feel free to check out my projects, and don’t hesitate to reach out if you have any questions or opportunities for collaboration.
