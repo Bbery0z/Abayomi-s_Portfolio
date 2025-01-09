@@ -18,7 +18,8 @@ I enjoy working with data to uncover patterns, trends, and insights that help bu
 - **Python**: Experience in using Python for data manipulation (with Pandas), data visualization (with Matplotlib and Seaborn), and performing basic statistical analysis.
 - **Google Data Studio**: Skilled in creating interactive and user-friendly reports and dashboards that present data in a visually compelling way, enabling easy collaboration and sharing.
 
-## Project 1 - Biodata Cleaning
+## Recent Projects:
+### Biodata Cleaning
 This was a practice project I worked on during my internship at **Tech Studio Academy**.
 
 #### Project Details:
@@ -31,14 +32,14 @@ This was a practice project I worked on during my internship at **Tech Studio Ac
 3. Standardized Fullnames with "str.title()" and Reset Index with “data.reset_index(drop=True)”
 The report for the project can be found here: 
   
-## Project 2 - USDA Commodity Price Analysis
+### USDA Commodity Price Analysis
 This was also practice project I worked on during my internship at **Tech Studio Academy**.
 
 #### Project Details:
 - **Data Source**:  
   USDA pricing data from the 3rd and 4th quarters of 2022 and 2023.
 
-#### Steps Taken(Using Excel tool):
+#### Steps Taken(Using Excel and PowerBI tools):
 1. **Data Concatenation**:  
    Combined data from 2022 and 2023 into a single dataset for analysis.
    
