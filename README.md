@@ -33,7 +33,8 @@ This was a practice project I worked on during my internship at **Tech Studio Ac
 1. The dataset was read into a pandas DataFrame using "pd.read_excel()"
 2. Column split using delimiters with "str.split()"
 3. Standardized Fullnames with "str.title()" and Reset Index with “data.reset_index(drop=True)”
-The report for the project can be found here: [Biodata Cleaning](https://bbery0z.github.io/Biodata-Cleaning/)
+
+The project report can be found here: [Biodata Cleaning](https://bbery0z.github.io/Biodata-Cleaning/)
   
 ### -USDA Commodity Price Analysis
 This was also practice project I worked on during my internship at **Tech Studio Academy**.
