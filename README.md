@@ -58,4 +58,23 @@ This was also practice project I worked on during my internship at **Tech Studio
 
 The project report can be found here: [USDA Commodity Price Analysis](https://bbery0z.github.io/USDA-Commodity-Price-Analysis/)
 
+### -Excelerate Data Visualisation
+This was a live project I worked on during my internship with **Excelerate**.
 
+#### Project Details:
+- **Data Source**:
+  Excelerate's User and Opportunity Data. Source here: [E.Data](https://docs.google.com/spreadsheets/d/1nsmCM6GpahjdkjR6POOhPn3_BdlYhIELM51LlnIZNU8/edit?gid=472314304#gid=472314304)
+
+#### Steps Taken(Using Google sheets and Looker studio):
+1. **Data Cleaning**:
+   - Standardized date formats and filled missing demographic fields with "Not Specified."
+   - Deduplicated records to improve accuracy.
+   - Performed manual spelling corrections.
+
+2. **Efficient Visualizations**:
+   - Aggregated data to optimize performance.
+   - Simplified heatmap designs for clarity.
+     
+Here is the [Excelerate Dashboard](https://lookerstudio.google.com/reporting/1a540d3a-7606-4f5e-88b3-a03a047dc782/page/p_0uali6g6md?s=mwbDLzca3PQ) on Looker Studio.
+
+The project report can be found here: [Excelerate Project Report](https://drive.google.com/file/d/1BrJpwwfXzKEcWTaiF-4j4NbPa_qdDDTj/view?usp=drive_link)
